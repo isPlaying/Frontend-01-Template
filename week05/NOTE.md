@@ -9,6 +9,3 @@ Before it is evaluated, all ECMAScript code must be associated with a realm. Con
 intrinsic objects, an ECMAScript global environment, all of the ECMAScript code that is loaded within the scope of that
 global environment, and other associated state and resources.
 ```
-[Realm可视化git仓库](https://github.com/isPlaying/realm-visualiazation)
-
-[Realm可视化在线预览](200125.xyz:10080)
