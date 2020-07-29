@@ -1,1 +1,8 @@
-# 每周总结可以写在这里
+手势概览
+
+- tap
+- pan - panstart panmove panend
+- flick
+- press - pressstart pressend
+
+![touch](./touch.png)
