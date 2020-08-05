@@ -1,1 +1,32 @@
-# 每周总结可以写在这里
+工具链
+- jenkins 
+- git 
+- webpack 
+- travis 
+- eslint 
+- babel 
+- gulp 
+- create-react-app 
+- umi 
+- gitlab 
+- vscode 
+- mocha 
+- http-server 
+- vue-cli 
+- mock 
+- husky 
+- prettier 
+- axios 
+- yeoman 
+- postman 
+- dva 
+- jest 
+- easymock 
+- swagger 
+- wireshark
+
+工具分类  
+- 初始化工具
+- 开发工具
+- 测试工具
+- 部署工具
