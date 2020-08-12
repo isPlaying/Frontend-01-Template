@@ -1,1 +1,18 @@
-# 每周总结可以写在这里
+### Server
+- build
+    - webpack
+    -  babel
+    - vue
+    - jsx
+    - postcss
+- watch
+    - fsevent
+- mock
+- http
+    - ws
+    - http-server
+### Client
+  - debugger
+    - vscode
+    - devtool
+  - source-map
