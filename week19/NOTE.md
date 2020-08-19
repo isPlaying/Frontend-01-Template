@@ -1,1 +1,13 @@
-# 每周总结可以写在这里
+- 目录结构与初始化工具
+  - 通过yeoman拷贝文件至目标路径
+  - 使用npmInstall安装所需依赖
+  - 配置单元测试和测试用例覆盖率
+  - 使用npm link链接后执行build完成构建
+
+- 发布系统
+  - publish-server-vanilla
+    - 使用steam的形式,unzipper解压zip包
+  - publish-tool
+    - 发起http请求压缩package目录中的文件
+  - server
+    - 在server中查看最终效果
