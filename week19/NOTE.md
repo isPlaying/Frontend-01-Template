@@ -6,7 +6,7 @@
 
 - 发布系统
   - publish-server-vanilla
-    - 使用steam的形式,unzipper解压zip包
+    - unzipper解压zip包
   - publish-tool
     - 发起http请求压缩package目录中的文件
   - server
